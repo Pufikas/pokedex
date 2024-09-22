@@ -23,6 +23,7 @@ Simple vuejs based pokedex fetching data from [pokeapi](https://pokeapi.co/)
 ## Project Setup
 
 ```sh
+git clone https://github.com/Pufikas/pokedex.git
 cd pokedex
 npm install
 npm run dev
